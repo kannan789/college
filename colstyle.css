@@ -1,0 +1,116 @@
+    body{
+        font-family: sans-serif;
+    }
+    .menu_bar{
+        padding:25px;
+        margin:-8px -8px 0px -8px;
+    }
+    #inst_name{
+        color:blueviolet;
+        font-weight: 700;
+        font-size: 30px;
+        width:50%;
+        display:inline;
+        padding-left: 40px;
+    }
+    .menus{
+        display: inline;
+        margin-left: 125px;
+    }
+    span{
+        margin-right: 40px;
+        font-size: 25px;
+        font-weight: 700;
+    }
+    a{
+        text-decoration: none;
+        color:black;
+    }
+
+    .marq{
+        color:brown;
+        background-color: azure;
+        height:40px;
+        margin:0 -8px 0 -8px;
+        padding-top:17px;
+        }
+    .samp_img{
+        margin:0px -8px 0 -8px;
+        position: relative;
+    }
+    .body_first{
+     position: absolute;
+     top:280px;
+     left:250px;
+     font-size: 60px;
+     color:white;
+    }
+    .body_second{
+        background-color: royalblue;
+        height:300px;
+        margin:-8px -8px 0 -8px;
+    }
+    #big_text{
+        font-size:30px;
+        padding-top: 40px;
+        padding-left:20px;
+    }
+    #small_text{
+        font-size:25px;
+        padding: 20px 20px 0 20px;
+     }
+     #cap_text{
+         padding-top: 30px;
+         text-align: center;
+         font-size: 35px;
+     }
+     .blocks{
+         height:250px;
+         padding-left: 70px;;
+         padding-top:30px;
+         padding-bottom: 40px;
+     }
+     .block{
+         display: inline-flex;
+         ;
+         margin-top: 20px;
+         width:350px;
+         height:200px;
+         border:2px solid black;
+         margin-right: 20px;
+         background-color: black;
+         color:white;
+         font-weight: 700;
+         font-size: 30px;
+         justify-content: center;
+         align-items: center;
+         }
+        .block:hover{
+             background-color: white;
+             color:black;
+         }
+        footer{
+             height: 250px;
+             background-color: black;
+             color:white;
+             margin:0 -8px -8px -8px;
+         }
+         table{
+             width:100%;
+         }
+         #address{
+             padding-left:100px;
+         }
+         .social_media{
+         margin-top: 30px;
+         }
+         .icons{
+             height:1rem;
+         }
+         li{
+             padding-bottom: 20px;
+         }
+         li a{
+             color:white;
+         }
+     
